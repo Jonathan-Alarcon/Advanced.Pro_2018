@@ -1,1 +1,17 @@
+En esta unidad aprendimos los siguientes temas
 
+Ambiente de desarrollo 
+Áreas de trabajos y barra de menpus
+Crear y complilar un proyecto.
+Controles básicos (formas,botones y etiquetas)
+
+Controles avanzados
+Control ListBox y ComboBox
+Cuadros de dialogo
+Eventos
+Evento Click,Onchange,OnEnter y OnExit, Evento OnTimer,
+OnMouseDown,OnMouseUp.
+Evento OnKeyPress,Evento OnKeyUp,OnKeyDown.
+
+En esta carpeta se adjunta el proyecto donde aplicamos todos esos conocimientos.
+Este proyecto es un organizador de Álbums y Fotos creado en C#.
