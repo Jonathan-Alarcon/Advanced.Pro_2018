@@ -13,5 +13,6 @@ Evento Click,Onchange,OnEnter y OnExit, Evento OnTimer,
 OnMouseDown,OnMouseUp.
 Evento OnKeyPress,Evento OnKeyUp,OnKeyDown.
 
-En esta carpeta se adjunta el proyecto donde aplicamos todos esos conocimientos.
-Este proyecto es un organizador de Álbums y Fotos creado en C#.
+En esta carpeta se adjuntan los proyectos donde aplicamos todos esos conocimientos.
+Uno de estos proyectos es un organizador de Álbums y Fotos creado en C#.
+El otro es la implementación del Método Simplex utilizando los conocimientos aprendidos.
